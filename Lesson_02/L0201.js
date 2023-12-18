@@ -5,8 +5,8 @@
 // Required:
 var i = 0; i++        // <-- semicolon obligatory
                       //     (but optional before newline)
-var i = 0             // <-- semicolon optional
-    i++               // <-- semicolon optional
+var i = 0   ;          // <-- semicolon optional
+    i++    ;           // <-- semicolon optional
 
 // Optional:
 var i;                        // variable declaration
